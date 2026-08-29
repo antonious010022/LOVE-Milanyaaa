@@ -124,7 +124,7 @@ const LOVE_CONFIG = {
         { caption: "بالمناسبه الصوره المره اللي سمعنا فيها اغنيه عودونيييي 🥰🥰🥰🥰", img: "IMG-20260320-WA0001.jpg" },
         { caption: "La foto più bella del Ventunesimo secolo 📸👑", img: "IMG-20260329-WA0064.jpg" },
         { caption: "اجمل ما رأته عيناي والله❤️", img: "IMG-20260329-WA0065.PNG" },
-        { caption: "بحبك طحننن يا بت💗", img: "photos/IMG-20260419-WA0022.jpg" },
+        { caption: "بحبك طحننن يا بت💗", img: "IMG-20260419-WA0022.jpg" },
         { caption: "بحبك للمره الخمستاشر الف بوسهه 😘😘😘", img: "IMG-20260503-WA0042.jpg" },
         { caption: "la mia principessa❤️❤️❤️❤️❤️ طبعااااااااااا", img: "IMG-20290503-WA0042.jpg" }
     ],
