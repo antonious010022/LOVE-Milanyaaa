@@ -147,7 +147,7 @@ const LOVE_CONFIG = {
     countdownTitle: "Il nostro inizio💞",               // عنوان القسم
     countdownNote: "E da allora sono perché tu sei, e da allora sei, sono e siamo",
     // تسميات الأربع خانات في العداد الكبير (أيام / ساعات / دقايق / ثواني)
-    countdownLabels: { days: "أيام", hours: "ساعات", minutes: "دقائق", seconds: "ثواني" },
+    countdownLabels: { days: "giorni", hours: "ore", minutes: "minuti", seconds: "Secondi" },
     // تاريخ بداية العلاقة بالظبط (سنة-شهر-يوم) اللي العداد بيحسب منه
     startDate: "2025-08-30T00:00:00",
     // تاريخ الذكرى السنوية اللي هيتحسب عليها الاحتفال (سيبيها فاضية "" عشان تتحسب تلقائي = بداية العلاقة + سنة)
