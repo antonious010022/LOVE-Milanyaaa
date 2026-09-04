@@ -145,7 +145,7 @@ const LOVE_CONFIG = {
     /* ---------- ج) العدّاد + الذكرى السنوية ---------- */
     countdownEyebrow: "every second counts",   // سطر صغير فوق عنوان القسم
     countdownTitle: "Il nostro inizio💞",               // عنوان القسم
-    countdownNote: "من يوم ما بدأنا لحد دلوقتي، وهيفضل يعد طول ما إحنا موجودين 💗",
+    countdownNote: "E da allora sono perché tu sei, e da allora sei, sono e siamo",
     // تسميات الأربع خانات في العداد الكبير (أيام / ساعات / دقايق / ثواني)
     countdownLabels: { days: "أيام", hours: "ساعات", minutes: "دقائق", seconds: "ثواني" },
     // تاريخ بداية العلاقة بالظبط (سنة-شهر-يوم) اللي العداد بيحسب منه
